@@ -1,5 +1,6 @@
-Representation of an unfinished function a group member was working on
-
-changes I made on this branch while you were working on rb-test
+This is a representation of an unfinished function a group member is working on.
 
 THis is a new change from Ethan Birnbaum by the way  ||| |S| | |SS||S| |S|S
+This is a new change from Cohen Reiland
+
+This is the changes made to this branch while you were working on rb-test
